@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"bufio"
-	//"log"
 	"os"
 	"encoding/json"
 	"strings"
